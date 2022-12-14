@@ -1,9 +1,11 @@
-# Github-Repos-Search-React
+# react-film-app-particeep
+![image](https://user-images.githubusercontent.com/79748409/207478754-f9c59a0a-761f-4fe7-b2e2-14c87f70833d.png)
+
 
 ## 📝 Description
-This project allows you to fetch the github repositories of a user and then filter repositories by name
+Listing films according to categories and a progress bar indicating the likes/dislikes ratio.
 
-**Link to project:**  
+**Link to project:**  react-film-app-particeep.netlify.app
 ## 🚀 Run on your machine
 
 Note: it requires yarn or npm installed 
